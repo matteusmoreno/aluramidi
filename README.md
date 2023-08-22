@@ -34,12 +34,3 @@ git clone https://github.com/matteusmoreno/aluramidi.git
 
 Se você deseja contribuir para este projeto, sinta-se à vontade para fazer um fork do repositório, implementar melhorias e enviar um pull request.
 
-## Autor
-
-Este projeto foi desenvolvido por [Seu Nome](https://github.com/seudor).
-
----
-
-**Nota:** Certifique-se de substituir `Seu Nome` e `https://github.com/seudor` pelo seu próprio nome e perfil do GitHub.
-
-**Importante:** As informações fornecidas acima podem ser usadas como um ponto de partida para o seu `README.md`. Certifique-se de fazer as adaptações necessárias e adicionar mais detalhes, se desejar.
